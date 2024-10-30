@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "745223836964",
+    "project_id": "minimalchatapp-a12a1",
+    "storage_bucket": "minimalchatapp-a12a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745223836964:android:d0e22037cc9548ad45cfb1",
+        "android_client_info": {
+          "package_name": "com.example.minimal_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsmDu8gRnLLPw9yNaQ-0AfwRqR6Juzn40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
